@@ -1,12 +1,12 @@
-# ⚖️ LegalAI – AI Contract Review Platform
+# LegalAI – AI Contract Review Platform
 
 An AI-powered Contract Review Platform that helps legal professionals and businesses analyze contracts using Artificial Intelligence. The application extracts clauses, detects risks, summarizes contracts, performs semantic search, and provides AI-powered answers using Retrieval-Augmented Generation (RAG).
 
 ---
 
-# 🚀 Features
+#  Features
 
-## 🔐 Authentication
+##  Authentication
 - User Registration
 - User Login
 - JWT Authentication
@@ -17,7 +17,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-## 📄 Contract Management
+##  Contract Management
 
 - Upload PDF Contracts
 - Store Contracts in PostgreSQL
@@ -28,7 +28,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-## 🤖 AI Features
+##  AI Features
 
 - AI Contract Summary
 - AI Contract Chat
@@ -43,7 +43,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 - Total Contracts
 - High Risk Contracts
@@ -56,7 +56,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-## 👨‍💼 Admin Dashboard
+##  Admin Dashboard
 
 - User Management
 - Active Users
@@ -68,7 +68,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Frontend
 
@@ -119,7 +119,7 @@ An AI-powered Contract Review Platform that helps legal professionals and busine
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 legal-ai-contract-review
@@ -153,7 +153,7 @@ legal-ai-contract-review
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -344,42 +344,6 @@ GET /admin/users
 PATCH /admin/users/{id}/role
 
 PATCH /admin/users/{id}/status
-```
-
----
-
-# Screenshots
-
-Add screenshots inside
-
-```
-screenshots/
-```
-
-Example
-
-```
-screenshots/
-
-login.png
-
-dashboard.png
-
-upload.png
-
-contracts.png
-
-risk-dashboard.png
-
-chat.png
-
-search.png
-
-profile.png
-
-admin-dashboard.png
-
-swagger.png
 ```
 
 ---
